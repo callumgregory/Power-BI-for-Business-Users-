@@ -1,5 +1,5 @@
 # Power BI for Business Users
-Thanks to a course on Udemy, I have had a little introduction to Power BI for Business. 
+Thanks to a course on Udemy called "Power BI for Business Users" I have become more acquainted with presenting data in Power BI and how to tell a story based on data.
 
 ## What I’ve learnt
 - How to create beautiful dashboards instead of boring spreadsheets and slides
