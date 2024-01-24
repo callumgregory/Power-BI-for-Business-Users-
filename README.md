@@ -7,4 +7,3 @@ Thanks to a course on Udemy called "Power BI for Business Users" I have become m
 - How to create visualizations without programming skills
 - Some interesting tips to simply working with Power BI
 
-* Files to be added soon
